@@ -5,7 +5,8 @@ export const decrement = createAction('[Counter Component] Decrement');
 export const reset = createAction('[Counter Component] Reset');
 
 //added multiplication
-export const mult = createAction('[Counter Component] Mult');
+export const mult = createAction('[Counter Component] mult'); 
+//& Una exportacion por cada funcion que se creo 
 
 /*
 Use of this source code is governed by an MIT-style license that
